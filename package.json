@@ -1,0 +1,14 @@
+{
+  "name": "launchproof",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web3 landing-page trust-signal and conversion QA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
